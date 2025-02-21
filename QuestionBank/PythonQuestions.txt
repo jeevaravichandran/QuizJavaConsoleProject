@@ -1,0 +1,139 @@
+1. Who developed Python Programming Language?
+Wick van Rossum
+Rasmus Lerdorf
+Guido van Rossum
+Niene Stom
+3
+
+2. Which type of Programming does Python support?
+object-oriented programming
+structured programming
+functional programming
+all of the mentioned
+4
+
+3. Is Python case sensitive when dealing with identifiers?
+no
+yes
+machine dependent
+none of the mentioned
+2
+
+4. Which of the following is the correct extension of the Python file?
+.python
+.pl
+.py
+.p
+3
+
+5. Is Python code compiled or interpreted?
+Python code is both compiled and interpreted
+Python code is neither compiled nor interpreted
+Python code is only compiled
+Python code is only interpreted
+1
+
+6. All keywords in Python are in _________
+Capitalized
+lower case
+UPPER CASE
+None of the mentioned
+4
+
+7. Which of the following is used to define a block of code in Python language?
+Indentation
+Key
+Brackets
+All of the mentioned
+1
+
+8. Which keyword is used for function in Python language?
+Function
+def
+Fun
+Define
+2
+
+9. Which of the following character is used to give single-line comments in Python?
+//
+#
+!
+/*
+2
+
+10. Which of the following functions is a built-in function in python?
+factorial()
+print()
+seed()
+sqrt()
+2
+
+11. What is the output of print(3 * 'abc') in Python?
+abcabcabc
+abc 3 times
+Error
+None
+1
+
+12. How do you remove all items from a list in Python?
+list.removeAll()
+list.clear()
+list.delete()
+del list
+2
+
+13. Which of the following is used to handle exceptions in Python?
+try-except
+try-catch
+try-finally
+handle-catch
+1
+
+14. What is the output of print(1 + 2 * 3) in Python?
+9
+5
+6
+7
+4
+
+15. What will len('Python') return?
+'Python'
+6
+None
+Error
+2
+
+16. How do you define a dictionary in Python?
+{}
+[]
+()
+<>
+1
+
+17. What is the output of print(10 / 3) in Python 3?
+3.3333333333333335
+3
+3.33
+Error
+1
+
+18. Which of the following is an immutable data type in Python?
+List
+Set
+Dictionary
+Tuple
+4
+
+19. What does input() function return in Python 3.x?
+Integer
+String
+List
+None
+2
+
+20. Which of the following is the correct way to comment multiple lines in Python?
+/* comment */
+// comment
+comment
+''' comment '''
+4

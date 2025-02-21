@@ -1,0 +1,139 @@
+1. Which SQL clause is used to filter records based on a specific condition?
+WHERE
+GROUP BY
+ORDER BY
+HAVING
+1
+
+2. Which SQL command is used to remove all records from a table without deleting the table structure?
+DELETE
+DROP
+TRUNCATE
+REMOVE
+3
+
+3. What is the default sorting order of the ORDER BY clause in MySQL?
+Ascending
+Descending
+Random
+None
+1
+
+4. Which SQL function is used to return the current date and time?
+NOW()
+CURRENT_DATE()
+SYSDATE()
+GETDATE()
+1
+
+5. Which MySQL constraint ensures that all values in a column are unique?
+PRIMARY KEY
+FOREIGN KEY
+UNIQUE
+CHECK
+3
+
+6. Which SQL keyword is used to retrieve only unique values from a column?
+UNIQUE
+DISTINCT
+GROUP BY
+DIFFERENT
+2
+
+7. Which SQL clause is used to group records based on a specific column?
+GROUP BY
+ORDER BY
+WHERE
+DISTINCT
+1
+
+8. In MySQL, which JOIN returns only the matching rows from both tables?
+LEFT JOIN
+RIGHT JOIN
+INNER JOIN
+FULL JOIN
+3
+
+9. Which SQL keyword is used to fetch only a specific number of rows in MySQL?
+LIMIT
+TOP
+FETCH
+ROWS
+1
+
+10. Which SQL clause is used to filter groups after applying the GROUP BY clause?
+WHERE
+HAVING
+ORDER BY
+FILTER
+2
+
+11. Which of the following SQL commands is used to create a new table in MySQL?
+NEW TABLE
+MAKE TABLE
+ADD TABLE
+CREATE TABLE
+4
+
+12. Which operator is used to search for a specified pattern in a column in MySQL?
+MATCH
+SEARCH
+IN
+LIKE
+4
+
+13. Which SQL clause is used to filter records in SQL queries?
+SELECT
+WHERE
+ORDER BY
+GROUP BY
+2
+
+14. Which function is used to count the number of rows in a table in MySQL?
+SUM()
+COUNT()
+ROWS()
+TOTAL()
+2
+
+15. Which of the following is used to join two tables in MySQL based on a related column?
+LINK
+CONNECT
+JOIN
+UNION
+3
+
+16. Which of the following is the correct SQL statement to update a record in a table?
+UPDATE table_name SET column_name = value WHERE condition;
+MODIFY table_name SET column_name = value WHERE condition;
+CHANGE table_name SET column_name = value WHERE condition;
+ALTER table_name SET column_name = value WHERE condition;
+1
+
+17. Which of the following is used to remove a table from a database in MySQL?
+DROP TABLE
+REMOVE TABLE
+DELETE TABLE
+ERASE TABLE
+1
+
+18. What is the purpose of the GROUP BY clause in SQL?
+To sort data in ascending or descending order
+To filter records based on a condition
+To group rows that have the same values into summary rows
+To join two or more tables
+3
+
+19. Which of the following is used to sort the result set in MySQL?
+SORT BY
+ORDER BY
+GROUP BY
+ARRANGE BY
+2
+
+20. What is the default sorting order when using the ORDER BY clause in MySQL?
+Ascending
+Descending
+Random
+None
+1

@@ -1,0 +1,139 @@
+1.Which of these is not a feature of Java?
+Object-oriented
+Platform-independent
+Compiled
+Interpreted language
+3
+
+2.Which component of Java is responsible for running the compiled Java bytecode?
+JDK
+JVM
+JRE
+JIT
+2
+
+3.What is the purpose of the PATH environment variable in Java?
+To locate Java libraries
+To store Java bytecode
+To Locate the exe files (.exe)
+To optimize Java code
+3
+
+4.Which feature of Java makes it possible to run a Java program on different platforms?
+Object-Oriented
+Platform-Independent
+Syntax
+Memory Management
+2
+
+5.In Java, how should class names be written?
+camelCase
+snake_case
+PascalCase
+kebab-case
+3
+
+6.How do I comment on a block of code in Java?
+/*comment*/
+//comment
+!--comment--
+%comment
+1
+
+7.What is multithreaded programming?
+It’s a process in which two different processes run simultaneously
+It’s a process in which two or more parts of the same process run simultaneously
+It’s a process in which many different process are able to access the same information
+It’s a process in which a single process can access information from many sources
+2
+
+8.What is the default value of a boolean variable in Java?
+true
+false
+0
+null
+2
+
+9.Which keyword is used to define a constant variable in Java?
+final
+static
+const
+immutable
+1
+
+10.What is the range of the short data type in Java?
+-32768 to 32767
+-128 to 127
+-2147483648 to 2147483647
+0 to 65535
+1
+
+11. What is the size of an int data type in Java?
+2 bytes
+4 bytes
+8 bytes
+Depends on the system
+2
+
+12. Which keyword is used to define an interface in Java?
+class
+abstract
+implements
+interface
+4
+
+13. What will happen if there is no main() method in a Java program?
+Compilation error
+Program runs normally
+Runtime error
+Program executes but with warnings
+3
+
+14. Which method in Java is used to compare two strings for equality?
+==
+compareTo()
+equals()
+match()
+3
+
+15. Which collection in Java maintains elements in insertion order?
+HashSet
+TreeSet
+LinkedHashSet
+PriorityQueue
+3
+
+16. What does the super keyword refer to in Java?
+Current class
+Parent class
+Child class
+Static class
+2
+
+17. How do you achieve method overloading in Java?
+By using the same method name with different return types
+By using different method names
+By using the same method name with different parameters
+By overriding the method in the child class
+3
+
+18. Which of the following is not a valid access modifier in Java?
+public
+private
+protected
+global
+4
+
+19. What happens when an exception is not handled in Java?
+Program terminates normally
+Program crashes
+Program enters an infinite loop
+The exception is ignored
+2
+
+20. Which package in Java contains the ArrayList class?
+java.lang
+java.io
+java.util
+java.sql
+3
